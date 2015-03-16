@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">支付宝标准SDK Demo</string>
+    <string name="auth_name">支付宝授权 Demo</string>
+	<string name="alert_dialog_ok">确定</string>
+    <string name="alert_dialog_cancel">取消</string>
+</resources>
